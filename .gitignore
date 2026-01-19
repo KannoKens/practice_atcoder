@@ -1,0 +1,16 @@
+# 仮想環境
+atcoder/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDEやエディタの設定
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
